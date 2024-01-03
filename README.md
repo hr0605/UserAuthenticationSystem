@@ -1,4 +1,4 @@
-# PasswordSimulator
+# User Authentication System
 
 Creator: Hamshika Rajkumar
 
