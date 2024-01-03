@@ -1,8 +1,6 @@
 # User Authentication System
 
 Creator: Hamshika Rajkumar
-
-Date: 1/29/2021
  
 Purpose: 
 
