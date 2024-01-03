@@ -2,7 +2,6 @@ package myProjects;
 
 /* ----------------------------------------------------------------------------------------
  * Creator: Hamshika Rajkumar
- * Date: 1/29/2021
  * Purpose: Guides the user in creating a username and a strong password
  * Includes a way to store the username and password
  * Simulates  the experience of logging in  
